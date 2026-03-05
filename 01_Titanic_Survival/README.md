@@ -44,5 +44,7 @@ Open titanic.ipynb in Jupyter Notebook, JupyterLab, or VS Code to view the explo
 
 👨‍💻 Author
 Oğuz Eren
+
 Computer Engineering Student @ Uludağ University
+
 GitHub: @Vooguz
